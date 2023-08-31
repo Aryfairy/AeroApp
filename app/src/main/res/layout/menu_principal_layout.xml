@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MenuPrincipalActivity">
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="180dp"
+        android:layout_height="200dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:checkable="true"
+        android:id="@+id/cardAeroModelos">
+
+    </com.google.android.material.card.MaterialCardView>
+
+</LinearLayout>
