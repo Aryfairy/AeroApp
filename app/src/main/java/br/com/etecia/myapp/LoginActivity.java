@@ -9,6 +9,7 @@ import android.widget.ImageView;
 
 public class LoginActivity extends AppCompatActivity {
     ImageView imgLogin;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
